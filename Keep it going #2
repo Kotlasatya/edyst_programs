@@ -1,0 +1,5 @@
+word='Hello'
+
+
+for i in range(len(word)):
+    print("Hello")
