@@ -1,0 +1,4 @@
+def solve(num):
+    # write your code from here
+    num1 = str(num)
+    return num1[-1:]
