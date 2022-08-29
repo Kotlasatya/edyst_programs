@@ -1,0 +1,2 @@
+name = input()
+print("Hello {0}, glad to meet you!".format(name))
