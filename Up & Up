@@ -1,0 +1,4 @@
+name='HelLoEdystProgRammer'
+
+# your code below this line #
+print(name.upper())
