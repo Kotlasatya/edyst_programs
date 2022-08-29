@@ -1,0 +1,3 @@
+p = int(input())
+r = int(input())
+print(int((p*r*2)/100))
