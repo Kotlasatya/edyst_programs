@@ -1,0 +1,4 @@
+agent_name='ReaLmEdystProgRammerhvvdvkjhoillhdsiolksdluvsdkjhlkdiufdjkkvdsoajckvuskcnkjasdvkknkdfjkvb'
+
+name = agent_name[2:6]
+print(name)
