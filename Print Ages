@@ -1,0 +1,6 @@
+name1 = 5
+name2 = 10
+name3 = 12
+print(f"Riya's age is {name1}")
+print(f"Mahesh is {name2}")
+print(f"And their best friend, Arjun, is {name3}")
