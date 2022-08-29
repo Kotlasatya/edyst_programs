@@ -1,0 +1,6 @@
+Name='ReaLmEdystProgRammerhvvdvkjhoillhdsiolksdluvsdkjhlkdiufdjkkvdsoajckvuskcnkjasdvkknkdfjkvb'
+### your answer below this line ###
+
+name1 = Name[0:5:2]
+
+print(name1)
