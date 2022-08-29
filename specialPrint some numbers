@@ -1,0 +1,15 @@
+def specialPrint(num):
+    if(num == 37):
+        print('three seven')
+    elif(num==93):
+        print('nine three')
+    elif(num == 14):
+        print('one four')
+    elif(num == 568):
+        print('five six eight')
+        
+# Your code below this line #
+
+nums =[37,93,14,568]
+for i in range(len(nums)):
+    specialPrint(nums[i])
