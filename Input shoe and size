@@ -1,0 +1,3 @@
+shoe = input()
+size = input()
+print(f"User wears {shoe} - size is {size}")
