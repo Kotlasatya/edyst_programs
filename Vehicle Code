@@ -1,0 +1,7 @@
+vehicle_name='niaLmEdystProgRammerhvvdvkjhoillhdsiolksdluvsdkjhlkdiufdjkkvdsoajckvuskcnkjasdvkknkdfjnja'
+
+
+n1 = vehicle_name[:2]
+n2 = n1.upper()
+n3 = vehicle_name[-3:]
+print(n2+n3)
