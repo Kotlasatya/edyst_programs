@@ -1,0 +1,2 @@
+age = input()
+print("Hi user, your age is {0}. Cool!".format(age))
