@@ -1,0 +1,4 @@
+def solve(num):
+    # write your program from here
+    
+    return abs(32-num)
