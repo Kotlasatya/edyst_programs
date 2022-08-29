@@ -1,0 +1,6 @@
+country1 = "India"
+country2 = "Spain"
+capital1 = "New Delhi"
+capital2 = "Madrid"
+print(f"{capital1} is the capital of {country1}")
+print(f"{capital2} is the capital of {country2}")
