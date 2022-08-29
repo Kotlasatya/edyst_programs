@@ -1,0 +1,5 @@
+a = 12
+if a is 12:
+    print("Some values are",bool(a))
+    print("Others are False")
+    print("And then, there is Schrodinger's cat")
